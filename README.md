@@ -1,3 +1,7 @@
+This repository is deprecated, the MQTT integration is included with BeamNG.tech builds, documentation available at https://documentation.beamng.com/beamng_tech/mqtt/.
+
+---
+
 # BeamNG MQTT Integration
 
 MQTT is a lightweight publish/subscribe messaging protocol for the Internet of Things (IoT). This repository provides an integration of the protocol to BeamNG.tech, allowing sending of data from BeamNG to a MQTT broker.
