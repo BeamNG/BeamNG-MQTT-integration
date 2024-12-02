@@ -1,4 +1,7 @@
-This repository is deprecated, the MQTT integration is included with BeamNG.tech builds, documentation available at https://documentation.beamng.com/beamng_tech/mqtt/.
+
+---
+
+**This repository is deprecated, the MQTT integration is included with BeamNG.tech builds, documentation available at https://documentation.beamng.com/beamng_tech/mqtt/.**
 
 ---
 
